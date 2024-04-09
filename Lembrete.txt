@@ -1,0 +1,9 @@
+não esquecer de colocar no terminal os seguintes comandos 
+
+cd backend
+npm start
+
+e
+
+cd frontend
+npm start
